@@ -36,23 +36,23 @@ global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
+global.pdana = '6285841266921'
 global.povo = '-'
-global.pgopay = '088279268363'
+global.pgopay = '6285841266921'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '6285841266921'
+global.nomorown = '6285841266921'
+global.namebot = 'Dimzz XD6285841266921'
+global.nameown = 'Dimzz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['6285841266921', 'Dimzz', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,14 +102,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm = 'Dimzz' //Main Watermark
+global.wm2 = 'Dimzz'
+global.wm3 = 'Dimzu'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.author = 'Dimzy' 
+global.packname = 'Dimzy'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'November 4 2022'
 
